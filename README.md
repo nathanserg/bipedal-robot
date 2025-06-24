@@ -13,6 +13,8 @@ Bipedal robot inspired by Cassie from Agility Robotics
 - Nothing decided for now
 
 ## Currently working on
-- 3D printing and winding my own motors
-- Designing a parametric cycloidal gearbox for each of the different motor size
-- Researching robot geometry and joint specs like torque, speed, acceleration
+- [x] RV reducer first prototype to test backdrivability
+- [ ] Test reducer prototype for max torque and backlash
+- [ ] Researching robot geometry and joint specs like torque, speed, acceleration
+- [ ] Designing a parametric RV reducer for each of the different motor size
+- [ ] 3D printing and winding my own motors
