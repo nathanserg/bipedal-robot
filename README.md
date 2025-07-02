@@ -15,6 +15,6 @@ Bipedal robot inspired by Cassie from Agility Robotics
 ## Currently working on
 - [x] RV reducer first prototype to test backdrivability
 - [ ] Test reducer prototype for max torque and backlash
-- [ ] Researching robot geometry and joint specs like torque, speed, acceleration
+- [x] Researching robot geometry and joint specs like torque, speed, acceleration
 - [ ] Designing a parametric RV reducer for each of the different motor size
-- [ ] 3D printing and winding my own motors
+- [ ] 3D printing and winding my own brushless motors
